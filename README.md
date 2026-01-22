@@ -1,5 +1,6 @@
 # Next.js Carousel API Project
 
+<<<<<<< HEAD
 A **Next.js** project that displays a carousel with images fetched from an API.  
 The fifth image in the carousel repeats the first image.
 
@@ -18,6 +19,22 @@ The fifth image in the carousel repeats the first image.
 
 ## Getting Started
 
+=======
+Interactive image carousel using Next.js and API routes.  
+The fifth image repeats the first one.
+
+## Features
+- 4 images from API
+- Carousel with 5th image = 1st
+- Fully responsive
+
+## Tech Stack
+- Next.js
+- React
+- CSS / Tailwind
+
+## Getting Started
+>>>>>>> 2054c46508edc78a593ecd8dcc8cabd725dd85c1
 ```bash
 npm install
 npm run dev
